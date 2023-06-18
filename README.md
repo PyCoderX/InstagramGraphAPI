@@ -12,12 +12,12 @@ Before using this wrapper, make sure you have the following:
 ## Installation
 
 1. Clone the project repository:
-
+```python
 git clone https://github.com/PyCoderX/InstagramGraphAPI
 
 
 2. Install the required dependencies:
-
+```python
 pip install -r requirements.txt
 
 
@@ -29,8 +29,3 @@ pip install -r requirements.txt
 ```python
 from lib.insta_api import InstaApi
 from credentials.insta_credentials import credentials
-
-
-
-
-
