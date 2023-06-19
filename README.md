@@ -59,4 +59,3 @@ Contributions to the InstaAPI library are welcome! If you encounter any issues, 
 
 ## License
 The InstaAPI library is open-source and released under the MIT License. See the LICENSE file for more details.
-
